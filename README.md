@@ -1,5 +1,5 @@
 # Dicee-Challenge
-Ths repo conati ode for coding challenge of [Udemy Web development bootcamp Course](https://www.udemy.com/course/the-complete-web-development-bootcamp)
+Ths repo contain code for coding challenge of [Udemy Web development bootcamp Course](https://www.udemy.com/course/the-complete-web-development-bootcamp)
 
 ## Technology used
 * Html
