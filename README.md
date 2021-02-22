@@ -7,5 +7,5 @@ This repo contain code for coding challenge of [Udemy Web development bootcamp C
 * JavaScript
 
 ## Description
-It is Dice game website where on reload two player dice are rolled and whichever has higher bumber wins.
+It is Dice game website where on reload two player dice are rolled and whichever has higher number wins.
 This website use dynamically loaded image implemented using help of JavaScript.
